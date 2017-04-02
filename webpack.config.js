@@ -4,7 +4,7 @@
         entry:'./src/js/lesson1.js',
         output:{
           path:'/static/',
-          publicPath: 'http://localhost:8080/static/',
+          publicPath: 'https://localhost:8080/static/',
           filename:'index.js'
   },
    module:{
