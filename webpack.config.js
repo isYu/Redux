@@ -3,8 +3,8 @@
      module.exports = {
         entry:'./src/js/lesson1.js',
         output:{
-          path:'/static/',
-          publicPath: 'https://localhost:8080/static/',
+          path:'./static/',
+          publicPath: './static/',
           filename:'index.js'
   },
    module:{
